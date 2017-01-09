@@ -1,2 +1,6 @@
 pluto is not a planet
+<<<<<<< HEAD
 for now
+=======
+You're right... its a dog in disney land!
+>>>>>>> bc2bcb597e28c37bdd9c946e61edc24519155ca8
